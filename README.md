@@ -2,7 +2,7 @@
 ### Install Visual Studio 2013
 
 1. [Download](https://github.com/Maodelian/src2013/raw/master/VS2013.exe "Download") Visual Studio 2013 and run installer
-2. Disable all in the second page and install
+2. Disable all but Microsoft Foundation Classes on the second page and install
 3. [Download](https://www.microsoft.com/en-gb/download/details.aspx?id=40770 "Download") and install MFC
 
 ### Download Source 2013
