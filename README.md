@@ -5,6 +5,8 @@
 2. Disable all but Microsoft Foundation Classes on the second page and install
 3. [Download](https://www.microsoft.com/en-gb/download/details.aspx?id=40770 "Download") and install MFC
 
+> Install newer Visual Studio can call a lot of errors
+
 ### Download Source 2013
 
 1. [Download](https://github.com/ValveSoftware/source-sdk-2013/archive/master.zip "Download") and extract Source 2013
