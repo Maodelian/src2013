@@ -9,7 +9,7 @@
 
 1. [Скачайте](https://github.com/ValveSoftware/source-sdk-2013/archive/master.zip "Скачать") и распакуйте Source 2013
 2. [Скачайте](http://www.microsoft.com/en-us/download/confirmation.aspx?id=10121 "Скачать") и установите Microsoft Speech SDK
-3. Скопируйте из `C:\Program Files (x86)\Microsoft Speech SDK 5.1` в `<SDKROOT>\sp\src\utils` или `<SDKROOT>\mp\src\utils`
+3. Скопируйте из `C:\Program Files (x86)\Microsoft Speech SDK 5.1` в `<SDKROOT>\sp\src\utils\sapi51`(Создайте папку `sapi51`) или `<SDKROOT>\mp\src\utils`
 4. Проверьте `<SDKROOT>\sp\src\utils\sapi51` на содержание Bin Docs IDL итд
 5. Откройте `<SDKROOT>\sp\src\utils\sapi51\include\sphelper.h` и измените несколько строк
 - Строка 769
