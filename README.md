@@ -9,7 +9,7 @@
 
 1. [Download](https://github.com/ValveSoftware/source-sdk-2013/archive/master.zip "Download") and extract Source 2013
 2. [Download](http://www.microsoft.com/en-us/download/confirmation.aspx?id=10121 "Download") and install Microsoft Speech SDK
-3. Copy from `C:\Program Files (x86)\Microsoft Speech SDK 5.1` to `<SDKROOT>\sp\src\utils\sapi51` or `<SDKROOT>\mp\src\utils\sapi51`
+3. Copy from `C:\Program Files (x86)\Microsoft Speech SDK 5.1` to `<SDKROOT>\sp\src\utils\sapi51`(Create directory) or `<SDKROOT>\mp\src\utils\sapi51`
 4. Open `<SDKROOT>\sp\src\utils\sapi51\include\sphelper.h` and change some lines
 - Line 769
 ```
