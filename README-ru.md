@@ -1,5 +1,5 @@
-# Preparing Source 2013 for Windows
-### Install Visual Studio 2013
+# Подготовка Source 2013 для Windows
+### Установка Visual Studio 2013
 
 1. [Скачайте](https://github.com/Maodelian/src2013/raw/master/VS2013.exe "Скачать") Visual Studio 2013 и запустите установшик
 2. Отключите всё во второй странице и установите
