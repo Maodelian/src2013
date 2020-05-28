@@ -2,7 +2,7 @@
 ### Установка Visual Studio 2013
 
 1. [Скачайте](https://github.com/Maodelian/src2013/raw/master/VS2013.exe "Скачать") Visual Studio 2013 и запустите установшик
-2. Отключите всё кроче Microsoft Foundation Classes во второй странице и установите
+2. Отключите всё кроме Microsoft Foundation Classes во второй странице и установите
 3. [Скачайте](https://www.microsoft.com/en-gb/download/details.aspx?id=40770 "Скачать") и установите MFC
 
 > Установка более новых Visual Studio могут вызвать много ошибок
