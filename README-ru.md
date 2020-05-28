@@ -5,6 +5,8 @@
 2. Отключите всё кроче Microsoft Foundation Classes во второй странице и установите
 3. [Скачайте](https://www.microsoft.com/en-gb/download/details.aspx?id=40770 "Скачать") и установите MFC
 
+> Установка более новых Visual Studio могут вызвать много ошибок
+
 ### Скачать Source 2013
 
 1. [Скачайте](https://github.com/ValveSoftware/source-sdk-2013/archive/master.zip "Скачать") и распакуйте Source 2013
